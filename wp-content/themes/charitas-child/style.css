@@ -1,0 +1,11 @@
+/*   
+Theme Name: Charitas Child Theme
+Theme URI: 
+Description: Use this theme to start your Charitas Child Theme development.
+Author: Victor Tihai
+Author URI: http://wplook.com/
+Template: charitas-wpl
+Version: 1.0.0.
+*/
+
+@import url('../charitas-wpl/style.css');
