@@ -1,0 +1,642 @@
+# Byrial Ole Jensen <byrial@vip.cybercity.dk>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: captcha_pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-02-03 15:55+0300\n"
+"PO-Revision-Date: 2014-02-03 15:55+0300\n"
+"Last-Translator: bestwebsoft.com <plugins@bestwebsoft.com>\n"
+"Language-Team: Ahto Tanner <ahto2@moonsoftware.com>\n"
+"Language: ET\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: captcha_pro_for_cf7.php:53
+msgid "BWS CAPTCHA"
+msgstr ""
+
+#: captcha_pro_for_cf7.php:65
+msgid "Name"
+msgstr ""
+
+#: captcha_pro_for_cf7.php:71
+msgid "Input field settings"
+msgstr ""
+
+#: captcha_pro_for_cf7.php:74
+msgid "optional"
+msgstr ""
+
+#: captcha_pro_for_cf7.php:80
+msgid "Copy this code and paste it into the form left."
+msgstr ""
+
+#: captcha_pro_for_cf7.php:122
+#, fuzzy
+msgid "Invalid CAPTCHA value."
+msgstr "Palun mine eelmisele lehele tagasi ja lahenda ka matemaatiline tehe."
+
+#: captcha_pro_for_cf7.php:123
+#: captcha_pro.php:788
+#: captcha_pro.php:809
+#: captcha_pro.php:1453
+#, fuzzy
+msgid "Please enter a valid CAPTCHA value."
+msgstr "Palun mine eelmisele lehele tagasi ja lahenda ka matemaatiline tehe."
+
+#: captcha_pro_for_cf7.php:126
+#, fuzzy
+msgid "Please enter CAPTCHA value."
+msgstr "Palun mine eelmisele lehele tagasi ja lahenda ka matemaatiline tehe."
+
+#: captcha_pro_for_cf7.php:127
+#: captcha_pro.php:1382
+#: captcha_pro.php:1480
+msgid "Please fill the form"
+msgstr ""
+
+#: captcha_pro.php:16
+#: captcha_pro.php:434
+#, fuzzy
+msgid "Captcha Pro Settings"
+msgstr "CAPTCHA seaded"
+
+#: captcha_pro.php:16
+#, fuzzy
+msgid "Captcha Pro"
+msgstr "CAPTCHA"
+
+#: captcha_pro.php:33
+msgid "requires"
+msgstr ""
+
+#: captcha_pro.php:33
+msgid "or higher, that is why it has been deactivated! Please upgrade WordPress and try again."
+msgstr ""
+
+#: captcha_pro.php:33
+msgid "Back to the WordPress"
+msgstr ""
+
+#: captcha_pro.php:33
+#, fuzzy
+msgid "Plugins page"
+msgstr "BWS Plugins"
+
+#: captcha_pro.php:41
+msgid "Login form"
+msgstr "Sisselogimisvormil"
+
+#: captcha_pro.php:42
+#: captcha_pro.php:474
+#: captcha_pro.php:479
+#: captcha_pro.php:485
+#, fuzzy
+msgid "Registration form"
+msgstr "Registreerimisvormil"
+
+#: captcha_pro.php:42
+msgid "Register form"
+msgstr "Registreerimisvormil"
+
+#: captcha_pro.php:43
+#, fuzzy
+msgid "Reset Password form"
+msgstr "Kaotatud parooli vormil"
+
+#: captcha_pro.php:43
+msgid "Lost password form"
+msgstr "Kaotatud parooli vormil"
+
+#: captcha_pro.php:44
+#: captcha_pro.php:475
+#: captcha_pro.php:480
+#: captcha_pro.php:486
+msgid "Comments form"
+msgstr "Kommentaarivormil"
+
+#: captcha_pro.php:45
+msgid "Hide CAPTCHA for registered users"
+msgstr "Peida CAPTCHA registreeritud kasutajatele"
+
+#: captcha_pro.php:50
+msgid "Plus (&#43;)"
+msgstr "Pluss (&#43;)"
+
+#: captcha_pro.php:50
+msgid "Plus"
+msgstr "Pluss"
+
+#: captcha_pro.php:51
+msgid "Minus (&minus;)"
+msgstr "Miinus (&minus;)"
+
+#: captcha_pro.php:51
+msgid "Minus"
+msgstr "Miinus"
+
+#: captcha_pro.php:52
+#, fuzzy
+msgid "Multiplication (&times;)"
+msgstr "Korruta (&times;)"
+
+#: captcha_pro.php:52
+#, fuzzy
+msgid "Multiply"
+msgstr "Korruta (&times;)"
+
+#: captcha_pro.php:57
+msgid "Numbers"
+msgstr "Numbrid"
+
+#: captcha_pro.php:58
+msgid "Words"
+msgstr "Sõnad"
+
+#: captcha_pro.php:292
+#: captcha_pro.php:304
+msgid "Settings"
+msgstr "Seaded"
+
+#: captcha_pro.php:305
+msgid "FAQ"
+msgstr "KKK"
+
+#: captcha_pro.php:306
+msgid "Support"
+msgstr "Tugi"
+
+#: captcha_pro.php:361
+#, fuzzy
+msgid "Please select one item in the block Arithmetic and Complexity for CAPTCHA"
+msgstr "Palun vali CAPTCHA jaoks vähemalt üks aritmeetiline operatsioon ja raskusaste"
+
+#: captcha_pro.php:365
+#, fuzzy
+msgid "Settings saved."
+msgstr "Seaded salvestatud."
+
+#: captcha_pro.php:388
+msgid "Something went wrong. Try again later. If the error will appear again, please, contact us <a href=http://support.bestwebsoft.com>BestWebSoft</a>. We are sorry for inconvenience."
+msgstr ""
+
+#: captcha_pro.php:395
+msgid "Wrong license key!"
+msgstr ""
+
+#: captcha_pro.php:397
+msgid "This license key is bind to another site"
+msgstr ""
+
+#: captcha_pro.php:399
+msgid "This license key is valid, but Your license has expired. If you want to update our plugin in future, you should extend the license."
+msgstr ""
+
+#: captcha_pro.php:401
+msgid "Unfortunately, you have exceeded the number of available tries."
+msgstr ""
+
+#: captcha_pro.php:405
+msgid "The license key is valid. Your license will expire on"
+msgstr ""
+
+#: captcha_pro.php:407
+msgid "The license key is valid."
+msgstr ""
+
+#: captcha_pro.php:422
+msgid "Something went wrong. Try again later. If the error will appear again, please, contact us <a href=http://support.bestwebsoft.com>BestWebSoft</a>. We are sorry for inconvienience."
+msgstr ""
+
+#: captcha_pro.php:427
+msgid "Please, enter your license key"
+msgstr ""
+
+#: captcha_pro.php:437
+msgid "Notice:"
+msgstr ""
+
+#: captcha_pro.php:437
+msgid "The plugin's settings have been changed. In order to save them please don't forget to click the 'Save Changes' button."
+msgstr ""
+
+#: captcha_pro.php:441
+#: captcha_pro.php:466
+#, fuzzy
+msgid "Enable CAPTCHA for:"
+msgstr "Aktiveeri CAPTCHA:"
+
+#: captcha_pro.php:453
+#: captcha_pro.php:455
+#: captcha_pro.php:458
+msgid "Contact form"
+msgstr "Kontaktivormil"
+
+#: captcha_pro.php:453
+#: captcha_pro.php:455
+#: captcha_pro.php:458
+msgid "powered by"
+msgstr ""
+
+#: captcha_pro.php:455
+msgid "Activate contact form"
+msgstr "Aktiveeri kontaktivorm"
+
+#: captcha_pro.php:458
+msgid "Download contact form"
+msgstr "Lae kontaktivorm alla"
+
+#: captcha_pro.php:460
+#, fuzzy
+msgid "If you would like to customize this plugin for a custom form, please see"
+msgstr "Kui soovite, et valmistame sellest pluginast teie erivajadustele vastava versiooni, siis kontakteeruge e-maili teel <a href=\"Mailto:plugin@bestwebsoft.com\">plugin@bestwebsoft.com</a> või meie veebilehe kontaktivormi kaudu"
+
+#: captcha_pro.php:476
+#: captcha_pro.php:481
+#: captcha_pro.php:487
+msgid "\"Create a Group\" form"
+msgstr ""
+
+#: captcha_pro.php:478
+#: captcha_pro.php:484
+#: captcha_pro.php:504
+#: captcha_pro.php:508
+msgid "You should"
+msgstr ""
+
+#: captcha_pro.php:478
+msgid "activate Buddypress"
+msgstr ""
+
+#: captcha_pro.php:478
+#: captcha_pro.php:484
+#: captcha_pro.php:504
+#: captcha_pro.php:508
+msgid "to use this functionality"
+msgstr ""
+
+#: captcha_pro.php:484
+msgid "download Buddypress"
+msgstr ""
+
+#: captcha_pro.php:494
+#, fuzzy
+msgid "Enable CAPTCHA:"
+msgstr "Aktiveeri CAPTCHA:"
+
+#: captcha_pro.php:504
+msgid "activate"
+msgstr ""
+
+#: captcha_pro.php:508
+#, fuzzy
+msgid "download"
+msgstr "Lae alla"
+
+#: captcha_pro.php:514
+#, fuzzy
+msgid "Title for CAPTCHA in the form"
+msgstr "Pealkiri CAPTCHA väljale:"
+
+#: captcha_pro.php:518
+msgid "Required symbol"
+msgstr ""
+
+#: captcha_pro.php:524
+msgid "Arithmetic actions for CAPTCHA"
+msgstr "Vali kasutajale nähtavad aritmeetilised operatsioonid:"
+
+#: captcha_pro.php:538
+msgid "CAPTCHA complexity level"
+msgstr ""
+
+#: captcha_pro.php:554
+msgid "Save Changes"
+msgstr "Salvesta muudatused"
+
+#: captcha_pro.php:559
+msgid "If needed you can check if the license key is correct or reenter it in the field below. You can find your license key on your personal page - Client area - on our website"
+msgstr ""
+
+#: captcha_pro.php:559
+msgid "(your username is the email you specify when purchasing the product). If necessary, please submit \"Lost your password?\" request."
+msgstr ""
+
+#: captcha_pro.php:563
+msgid "Check license key"
+msgstr ""
+
+#: captcha_pro.php:569
+msgid "If you enjoy our plugin, please give it 5 stars on WordPress"
+msgstr ""
+
+#: captcha_pro.php:570
+#, fuzzy
+msgid "Rate the plugin"
+msgstr "Soovitavad pluginad"
+
+#: captcha_pro.php:573
+msgid "If there is something wrong about it, please contact us"
+msgstr ""
+
+#: captcha_pro.php:622
+msgid "<strong>ERROR</strong>: Please fill the form."
+msgstr ""
+
+#: captcha_pro.php:632
+#, fuzzy
+msgid "<strong>ERROR</strong>: Please enter a valid CAPTCHA value."
+msgstr "Palun mine eelmisele lehele tagasi ja lahenda ka matemaatiline tehe."
+
+#: captcha_pro.php:740
+#: captcha_pro.php:780
+#: captcha_pro.php:801
+#: captcha_pro.php:828
+#: captcha_pro.php:1424
+#: captcha_pro.php:1448
+msgid "Please fill the form."
+msgstr ""
+
+#: captcha_pro.php:747
+#: captcha_pro.php:836
+#, fuzzy
+msgid "Error: You have entered an incorrect CAPTCHA value. Click the BACK button on your browser, and try again."
+msgstr "Viga: Sisestasid vale matemaatilise tehte vastuse. Palun mine eelmisele lehele tagasi ja paranda viga."
+
+#: captcha_pro.php:780
+#: captcha_pro.php:788
+#: captcha_pro.php:801
+#: captcha_pro.php:809
+msgid "ERROR"
+msgstr "VIGA"
+
+#: captcha_pro.php:855
+#: captcha_pro.php:1152
+msgid "zero"
+msgstr "null"
+
+#: captcha_pro.php:856
+#: captcha_pro.php:1153
+#: captcha_pro.php:1517
+msgid "one"
+msgstr "üks"
+
+#: captcha_pro.php:857
+#: captcha_pro.php:1154
+msgid "two"
+msgstr "kaks"
+
+#: captcha_pro.php:858
+#: captcha_pro.php:1155
+msgid "three"
+msgstr "kolm"
+
+#: captcha_pro.php:859
+#: captcha_pro.php:1156
+msgid "four"
+msgstr "neli"
+
+#: captcha_pro.php:860
+#: captcha_pro.php:1157
+msgid "five"
+msgstr "viis"
+
+#: captcha_pro.php:861
+#: captcha_pro.php:1158
+#: captcha_pro.php:1517
+msgid "six"
+msgstr "kuus"
+
+#: captcha_pro.php:862
+#: captcha_pro.php:1159
+#: captcha_pro.php:1505
+#: captcha_pro.php:1511
+msgid "seven"
+msgstr "seitse"
+
+#: captcha_pro.php:863
+#: captcha_pro.php:1160
+#: captcha_pro.php:1508
+msgid "eight"
+msgstr "kaheksa"
+
+#: captcha_pro.php:864
+#: captcha_pro.php:1161
+msgid "nine"
+msgstr "üheksa"
+
+#: captcha_pro.php:867
+#: captcha_pro.php:1164
+msgid "eleven"
+msgstr "üketeist"
+
+#: captcha_pro.php:868
+#: captcha_pro.php:1165
+msgid "twelve"
+msgstr "kaksteist"
+
+#: captcha_pro.php:869
+#: captcha_pro.php:1166
+msgid "thirteen"
+msgstr "kolmteist"
+
+#: captcha_pro.php:870
+#: captcha_pro.php:1167
+msgid "fourteen"
+msgstr "neliteist"
+
+#: captcha_pro.php:871
+#: captcha_pro.php:1168
+msgid "fifteen"
+msgstr "viisteist"
+
+#: captcha_pro.php:872
+#: captcha_pro.php:1169
+msgid "sixteen"
+msgstr "kuusteist"
+
+#: captcha_pro.php:873
+#: captcha_pro.php:1170
+msgid "seventeen"
+msgstr "seitseteist"
+
+#: captcha_pro.php:874
+#: captcha_pro.php:1171
+msgid "eighteen"
+msgstr "kaheksateist"
+
+#: captcha_pro.php:875
+#: captcha_pro.php:1172
+msgid "nineteen"
+msgstr "üheksateist"
+
+#: captcha_pro.php:878
+#: captcha_pro.php:1175
+msgid "ten"
+msgstr "kümme"
+
+#: captcha_pro.php:879
+#: captcha_pro.php:1176
+msgid "twenty"
+msgstr "kakskümmend"
+
+#: captcha_pro.php:880
+#: captcha_pro.php:1177
+msgid "thirty"
+msgstr "kolmkümmend"
+
+#: captcha_pro.php:881
+#: captcha_pro.php:1178
+msgid "forty"
+msgstr "nelikümmend"
+
+#: captcha_pro.php:882
+#: captcha_pro.php:1179
+msgid "fifty"
+msgstr "viiskümmend"
+
+#: captcha_pro.php:883
+#: captcha_pro.php:1180
+msgid "sixty"
+msgstr "kuuskümmend"
+
+#: captcha_pro.php:884
+#: captcha_pro.php:1181
+msgid "seventy"
+msgstr "seitsekümmend"
+
+#: captcha_pro.php:885
+#: captcha_pro.php:1182
+msgid "eighty"
+msgstr "kaheksakümmend"
+
+#: captcha_pro.php:886
+#: captcha_pro.php:1183
+msgid "ninety"
+msgstr "üheksakümmend"
+
+#: captcha_pro.php:973
+#: captcha_pro.php:1280
+msgid "and"
+msgstr "ja"
+
+#: captcha_pro.php:1047
+#, fuzzy
+msgid "Encryption password is not set"
+msgstr "Dekodeerimisparool on määramata"
+
+#: captcha_pro.php:1067
+#, fuzzy
+msgid "Decryption password is not set"
+msgstr "Dekodeerimisparool on määramata"
+
+#: captcha_pro.php:1390
+#: captcha_pro.php:1430
+#: captcha_pro.php:1486
+#, fuzzy
+msgid "Please enter a valid CAPTCHA value"
+msgstr "Palun mine eelmisele lehele tagasi ja lahenda ka matemaatiline tehe."
+
+#: captcha_pro.php:1674
+msgid "WARNING: We have noticed illegal use of our plugin by you. We strongly recommend you to solve the problem within 24 hours, otherwise the plugin will be deactivated. Please go to your personal"
+msgstr ""
+
+#: captcha_pro.php:1674
+msgid "(your username is the email you specify when purchasing the product), where you can make the necessary changes."
+msgstr ""
+
+#: captcha_pro.php:1680
+msgid "Your license has expired. To continue getting top-priority support and plugin updates you should extend it in your"
+msgstr ""
+
+#: captcha_pro.php:1717
+msgid "You license for"
+msgstr ""
+
+#: captcha_pro.php:1717
+msgid "expires on"
+msgstr ""
+
+#: captcha_pro.php:1717
+msgid "and you won't be granted TOP-PRIORITY SUPPORT or UPDATES. To extend your license please go to your"
+msgstr ""
+
+#: captcha_pro.php:1717
+msgid "where you'll be able to do that once this period expires."
+msgstr ""
+
+#, fuzzy
+#~ msgid "(powered by bestwebsoft.com)"
+#~ msgstr "(powered by bestwebsoft.com)"
+
+#, fuzzy
+#~ msgid "Please enter a valid email address."
+#~ msgstr ""
+#~ "Palun mine eelmisele lehele tagasi ja lahenda ka matemaatiline tehe."
+
+#~ msgid "Activated plugins"
+#~ msgstr "Aktiveeritud pluginad"
+
+#~ msgid "Read more"
+#~ msgstr "Loe lisaks"
+
+#~ msgid "Installed plugins"
+#~ msgstr "Paigaldatud pluginad"
+
+#~ msgid "Recommended plugins"
+#~ msgstr "Soovitavad pluginad"
+
+#~ msgid "Install %s"
+#~ msgstr "Paigalda %s"
+
+#~ msgid "Install now from wordpress.org"
+#~ msgstr "Paigalda kohe wordpress.org'ist"
+
+#, fuzzy
+#~ msgid "Active Plugins"
+#~ msgstr "Aktiveeritud pluginad"
+
+#, fuzzy
+#~ msgid "Inactive Plugins"
+#~ msgstr "Aktiveeritud pluginad"
+
+#, fuzzy
+#~ msgid "Send to support"
+#~ msgstr "Tugi"
+
+#, fuzzy
+#~ msgid "Buddypress Registration form"
+#~ msgstr "Registreerimisvormil"
+
+#, fuzzy
+#~ msgid ""
+#~ "If you have any questions, please contact us via plugin@bestwebsoft.com "
+#~ "or fill in the contact form on our website"
+#~ msgstr ""
+#~ "Kui sul on küsimusi siis kirjuta meile aadressil plugin@bestwebsoft.com "
+#~ "või kasuda kontaktilehekülge meie kodulehel"
+
+#~ msgid "Increase"
+#~ msgstr "Suurenda"
+
+#~ msgid "Difficulty for CAPTCHA"
+#~ msgstr "CAPTCHA raskusaste:"
+
+#~ msgid "That CAPTCHA was incorrect."
+#~ msgstr "Matemaatilise tehte vastus oli vale."
+
+#~ msgid "The password of encryption is not set"
+#~ msgstr "Kodeerimisparool on määramata"
+
+#~ msgid "null"
+#~ msgstr "null"
+
+#~ msgid "Install Now"
+#~ msgstr "Installér nu"

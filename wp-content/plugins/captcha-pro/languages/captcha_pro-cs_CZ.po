@@ -1,0 +1,629 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: captcha_pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-02-03 15:54+0300\n"
+"PO-Revision-Date: 2014-02-03 15:54+0300\n"
+"Last-Translator: bestwebsoft.com <plugins@bestwebsoft.com>\n"
+"Language-Team: Tomas Vesely, Crysman <crysman@seznam.cz>\n"
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Language: Czech\n"
+"X-Poedit-Country: CZECH REPUBLIC\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: captcha_pro_for_cf7.php:53
+msgid "BWS CAPTCHA"
+msgstr ""
+
+#: captcha_pro_for_cf7.php:65
+msgid "Name"
+msgstr ""
+
+#: captcha_pro_for_cf7.php:71
+msgid "Input field settings"
+msgstr ""
+
+#: captcha_pro_for_cf7.php:74
+msgid "optional"
+msgstr ""
+
+#: captcha_pro_for_cf7.php:80
+msgid "Copy this code and paste it into the form left."
+msgstr ""
+
+#: captcha_pro_for_cf7.php:122
+#, fuzzy
+msgid "Invalid CAPTCHA value."
+msgstr "Prosím vyplňte správnou CAPTCHA hodnotu."
+
+#: captcha_pro_for_cf7.php:123
+#: captcha_pro.php:788
+#: captcha_pro.php:809
+#: captcha_pro.php:1453
+msgid "Please enter a valid CAPTCHA value."
+msgstr "Prosím vyplňte správnou CAPTCHA hodnotu."
+
+#: captcha_pro_for_cf7.php:126
+#, fuzzy
+msgid "Please enter CAPTCHA value."
+msgstr "Prosím vyplňte správnou CAPTCHA hodnotu."
+
+#: captcha_pro_for_cf7.php:127
+#: captcha_pro.php:1382
+#: captcha_pro.php:1480
+#, fuzzy
+msgid "Please fill the form"
+msgstr "Prosím, vyplňte formulář."
+
+#: captcha_pro.php:16
+#: captcha_pro.php:434
+#, fuzzy
+msgid "Captcha Pro Settings"
+msgstr "nastavení CAPTCHA"
+
+#: captcha_pro.php:16
+#, fuzzy
+msgid "Captcha Pro"
+msgstr "Captcha"
+
+#: captcha_pro.php:33
+msgid "requires"
+msgstr ""
+
+#: captcha_pro.php:33
+msgid "or higher, that is why it has been deactivated! Please upgrade WordPress and try again."
+msgstr ""
+
+#: captcha_pro.php:33
+msgid "Back to the WordPress"
+msgstr ""
+
+#: captcha_pro.php:33
+#, fuzzy
+msgid "Plugins page"
+msgstr "Плагины BWS"
+
+#: captcha_pro.php:41
+msgid "Login form"
+msgstr "Přihlašovací formulář"
+
+#: captcha_pro.php:42
+#: captcha_pro.php:474
+#: captcha_pro.php:479
+#: captcha_pro.php:485
+msgid "Registration form"
+msgstr "Registrační formulář"
+
+#: captcha_pro.php:42
+msgid "Register form"
+msgstr "Registrační formulář"
+
+#: captcha_pro.php:43
+msgid "Reset Password form"
+msgstr "Formulář při ztrátě hesla"
+
+#: captcha_pro.php:43
+msgid "Lost password form"
+msgstr "Formulář při ztrátě hesla"
+
+#: captcha_pro.php:44
+#: captcha_pro.php:475
+#: captcha_pro.php:480
+#: captcha_pro.php:486
+msgid "Comments form"
+msgstr "Formulář pro odeslání komentáře"
+
+#: captcha_pro.php:45
+msgid "Hide CAPTCHA for registered users"
+msgstr "Skrýt CAPTCHA pro registrované uživatele"
+
+#: captcha_pro.php:50
+msgid "Plus (&#43;)"
+msgstr "Plus (&#43;)"
+
+#: captcha_pro.php:50
+msgid "Plus"
+msgstr "Plus"
+
+#: captcha_pro.php:51
+msgid "Minus (&minus;)"
+msgstr "Mínus (&minus;)"
+
+#: captcha_pro.php:51
+msgid "Minus"
+msgstr "Mínus (&minus;)"
+
+#: captcha_pro.php:52
+msgid "Multiplication (&times;)"
+msgstr "Krát (&times;)"
+
+#: captcha_pro.php:52
+msgid "Multiply"
+msgstr "Krát"
+
+#: captcha_pro.php:57
+msgid "Numbers"
+msgstr "Čísla"
+
+#: captcha_pro.php:58
+msgid "Words"
+msgstr "Slova"
+
+#: captcha_pro.php:292
+#: captcha_pro.php:304
+msgid "Settings"
+msgstr "Nastavení"
+
+#: captcha_pro.php:305
+msgid "FAQ"
+msgstr "FAQ - často kladdené otázky"
+
+#: captcha_pro.php:306
+msgid "Support"
+msgstr "Podpora"
+
+#: captcha_pro.php:361
+msgid "Please select one item in the block Arithmetic and Complexity for CAPTCHA"
+msgstr "Prosím vyberte jednu položku v bloku aritmetických funkcí  a obtížnosti CAPTCHA"
+
+#: captcha_pro.php:365
+#, fuzzy
+msgid "Settings saved."
+msgstr "Nastavení uloženo"
+
+#: captcha_pro.php:388
+msgid "Something went wrong. Try again later. If the error will appear again, please, contact us <a href=http://support.bestwebsoft.com>BestWebSoft</a>. We are sorry for inconvenience."
+msgstr ""
+
+#: captcha_pro.php:395
+msgid "Wrong license key!"
+msgstr ""
+
+#: captcha_pro.php:397
+msgid "This license key is bind to another site"
+msgstr ""
+
+#: captcha_pro.php:399
+msgid "This license key is valid, but Your license has expired. If you want to update our plugin in future, you should extend the license."
+msgstr ""
+
+#: captcha_pro.php:401
+msgid "Unfortunately, you have exceeded the number of available tries."
+msgstr ""
+
+#: captcha_pro.php:405
+msgid "The license key is valid. Your license will expire on"
+msgstr ""
+
+#: captcha_pro.php:407
+msgid "The license key is valid."
+msgstr ""
+
+#: captcha_pro.php:422
+msgid "Something went wrong. Try again later. If the error will appear again, please, contact us <a href=http://support.bestwebsoft.com>BestWebSoft</a>. We are sorry for inconvienience."
+msgstr ""
+
+#: captcha_pro.php:427
+msgid "Please, enter your license key"
+msgstr ""
+
+#: captcha_pro.php:437
+msgid "Notice:"
+msgstr ""
+
+#: captcha_pro.php:437
+msgid "The plugin's settings have been changed. In order to save them please don't forget to click the 'Save Changes' button."
+msgstr ""
+
+#: captcha_pro.php:441
+#: captcha_pro.php:466
+msgid "Enable CAPTCHA for:"
+msgstr "Povolit CAPTCHA pro:"
+
+#: captcha_pro.php:453
+#: captcha_pro.php:455
+#: captcha_pro.php:458
+msgid "Contact form"
+msgstr "Kontaktní formulář"
+
+#: captcha_pro.php:453
+#: captcha_pro.php:455
+#: captcha_pro.php:458
+msgid "powered by"
+msgstr ""
+
+#: captcha_pro.php:455
+msgid "Activate contact form"
+msgstr "Aktivovat kontaktní formulář"
+
+#: captcha_pro.php:458
+msgid "Download contact form"
+msgstr "Stáhnout kontaktní formulář"
+
+#: captcha_pro.php:460
+#, fuzzy
+msgid "If you would like to customize this plugin for a custom form, please see"
+msgstr "Pokud budete chtít přizpůsobit tento plugin pro své potřeby, kontaktujte nás prosím skrze"
+
+#: captcha_pro.php:476
+#: captcha_pro.php:481
+#: captcha_pro.php:487
+msgid "\"Create a Group\" form"
+msgstr ""
+
+#: captcha_pro.php:478
+#: captcha_pro.php:484
+#: captcha_pro.php:504
+#: captcha_pro.php:508
+msgid "You should"
+msgstr ""
+
+#: captcha_pro.php:478
+msgid "activate Buddypress"
+msgstr ""
+
+#: captcha_pro.php:478
+#: captcha_pro.php:484
+#: captcha_pro.php:504
+#: captcha_pro.php:508
+msgid "to use this functionality"
+msgstr ""
+
+#: captcha_pro.php:484
+msgid "download Buddypress"
+msgstr ""
+
+#: captcha_pro.php:494
+#, fuzzy
+msgid "Enable CAPTCHA:"
+msgstr "Povolit CAPTCHA pro:"
+
+#: captcha_pro.php:504
+msgid "activate"
+msgstr ""
+
+#: captcha_pro.php:508
+#, fuzzy
+msgid "download"
+msgstr "Stáhnout"
+
+#: captcha_pro.php:514
+msgid "Title for CAPTCHA in the form"
+msgstr "Nadpis pro CAPTCHA ve formuláři"
+
+#: captcha_pro.php:518
+msgid "Required symbol"
+msgstr ""
+
+#: captcha_pro.php:524
+msgid "Arithmetic actions for CAPTCHA"
+msgstr "Aritmetické operace pro CAPTCHA"
+
+#: captcha_pro.php:538
+msgid "CAPTCHA complexity level"
+msgstr "míra komplexity CAPTCHA"
+
+#: captcha_pro.php:554
+msgid "Save Changes"
+msgstr "Uložit změny"
+
+#: captcha_pro.php:559
+msgid "If needed you can check if the license key is correct or reenter it in the field below. You can find your license key on your personal page - Client area - on our website"
+msgstr ""
+
+#: captcha_pro.php:559
+msgid "(your username is the email you specify when purchasing the product). If necessary, please submit \"Lost your password?\" request."
+msgstr ""
+
+#: captcha_pro.php:563
+msgid "Check license key"
+msgstr ""
+
+#: captcha_pro.php:569
+msgid "If you enjoy our plugin, please give it 5 stars on WordPress"
+msgstr ""
+
+#: captcha_pro.php:570
+#, fuzzy
+msgid "Rate the plugin"
+msgstr "Doporučené pluginy"
+
+#: captcha_pro.php:573
+#, fuzzy
+msgid "If there is something wrong about it, please contact us"
+msgstr "Pokud máte nějaké otázky, prosím kontaktujte nás skrze"
+
+#: captcha_pro.php:622
+#, fuzzy
+msgid "<strong>ERROR</strong>: Please fill the form."
+msgstr "Prosím, vyplňte formulář."
+
+#: captcha_pro.php:632
+#, fuzzy
+msgid "<strong>ERROR</strong>: Please enter a valid CAPTCHA value."
+msgstr "Prosím vyplňte správnou CAPTCHA hodnotu."
+
+#: captcha_pro.php:740
+#: captcha_pro.php:780
+#: captcha_pro.php:801
+#: captcha_pro.php:828
+#: captcha_pro.php:1424
+#: captcha_pro.php:1448
+msgid "Please fill the form."
+msgstr "Prosím, vyplňte formulář."
+
+#: captcha_pro.php:747
+#: captcha_pro.php:836
+msgid "Error: You have entered an incorrect CAPTCHA value. Click the BACK button on your browser, and try again."
+msgstr "Chyba: Zadali jste nesprávnou hodnotu CAPTCHA. Stiskněte ve Vašem prohlížeči tlačítko ZPĚT a zkuste to znovu."
+
+#: captcha_pro.php:780
+#: captcha_pro.php:788
+#: captcha_pro.php:801
+#: captcha_pro.php:809
+msgid "ERROR"
+msgstr "CHYBA"
+
+#: captcha_pro.php:855
+#: captcha_pro.php:1152
+msgid "zero"
+msgstr "nula"
+
+#: captcha_pro.php:856
+#: captcha_pro.php:1153
+#: captcha_pro.php:1517
+msgid "one"
+msgstr "jedna"
+
+#: captcha_pro.php:857
+#: captcha_pro.php:1154
+msgid "two"
+msgstr "dva"
+
+#: captcha_pro.php:858
+#: captcha_pro.php:1155
+msgid "three"
+msgstr "tři"
+
+#: captcha_pro.php:859
+#: captcha_pro.php:1156
+msgid "four"
+msgstr "čtyři"
+
+#: captcha_pro.php:860
+#: captcha_pro.php:1157
+msgid "five"
+msgstr "pět"
+
+#: captcha_pro.php:861
+#: captcha_pro.php:1158
+#: captcha_pro.php:1517
+msgid "six"
+msgstr "šest"
+
+#: captcha_pro.php:862
+#: captcha_pro.php:1159
+#: captcha_pro.php:1505
+#: captcha_pro.php:1511
+msgid "seven"
+msgstr "sedm"
+
+#: captcha_pro.php:863
+#: captcha_pro.php:1160
+#: captcha_pro.php:1508
+msgid "eight"
+msgstr "osm"
+
+#: captcha_pro.php:864
+#: captcha_pro.php:1161
+msgid "nine"
+msgstr "devět"
+
+#: captcha_pro.php:867
+#: captcha_pro.php:1164
+msgid "eleven"
+msgstr "jedenáct"
+
+#: captcha_pro.php:868
+#: captcha_pro.php:1165
+msgid "twelve"
+msgstr "dvanáct"
+
+#: captcha_pro.php:869
+#: captcha_pro.php:1166
+msgid "thirteen"
+msgstr "třináct"
+
+#: captcha_pro.php:870
+#: captcha_pro.php:1167
+msgid "fourteen"
+msgstr "čtrnáct"
+
+#: captcha_pro.php:871
+#: captcha_pro.php:1168
+msgid "fifteen"
+msgstr "patnáct"
+
+#: captcha_pro.php:872
+#: captcha_pro.php:1169
+msgid "sixteen"
+msgstr "šestnáct"
+
+#: captcha_pro.php:873
+#: captcha_pro.php:1170
+msgid "seventeen"
+msgstr "sedmnáct"
+
+#: captcha_pro.php:874
+#: captcha_pro.php:1171
+msgid "eighteen"
+msgstr "osmnáct"
+
+#: captcha_pro.php:875
+#: captcha_pro.php:1172
+msgid "nineteen"
+msgstr "devatenáct"
+
+#: captcha_pro.php:878
+#: captcha_pro.php:1175
+msgid "ten"
+msgstr "deset"
+
+#: captcha_pro.php:879
+#: captcha_pro.php:1176
+msgid "twenty"
+msgstr "dvacet"
+
+#: captcha_pro.php:880
+#: captcha_pro.php:1177
+msgid "thirty"
+msgstr "třicet"
+
+#: captcha_pro.php:881
+#: captcha_pro.php:1178
+msgid "forty"
+msgstr "čtyřicet"
+
+#: captcha_pro.php:882
+#: captcha_pro.php:1179
+msgid "fifty"
+msgstr "padesát"
+
+#: captcha_pro.php:883
+#: captcha_pro.php:1180
+msgid "sixty"
+msgstr "šedesát"
+
+#: captcha_pro.php:884
+#: captcha_pro.php:1181
+msgid "seventy"
+msgstr "sedmdesát"
+
+#: captcha_pro.php:885
+#: captcha_pro.php:1182
+msgid "eighty"
+msgstr "osmdesát"
+
+#: captcha_pro.php:886
+#: captcha_pro.php:1183
+msgid "ninety"
+msgstr "devadesát"
+
+#: captcha_pro.php:973
+#: captcha_pro.php:1280
+msgid "and"
+msgstr "a"
+
+#: captcha_pro.php:1047
+msgid "Encryption password is not set"
+msgstr "kódovací heslo není zadáno"
+
+#: captcha_pro.php:1067
+msgid "Decryption password is not set"
+msgstr "dekódovací heslo není zadáno"
+
+#: captcha_pro.php:1390
+#: captcha_pro.php:1430
+#: captcha_pro.php:1486
+#, fuzzy
+msgid "Please enter a valid CAPTCHA value"
+msgstr "Prosím vyplňte správnou CAPTCHA hodnotu."
+
+#: captcha_pro.php:1674
+msgid "WARNING: We have noticed illegal use of our plugin by you. We strongly recommend you to solve the problem within 24 hours, otherwise the plugin will be deactivated. Please go to your personal"
+msgstr ""
+
+#: captcha_pro.php:1674
+msgid "(your username is the email you specify when purchasing the product), where you can make the necessary changes."
+msgstr ""
+
+#: captcha_pro.php:1680
+msgid "Your license has expired. To continue getting top-priority support and plugin updates you should extend it in your"
+msgstr ""
+
+#: captcha_pro.php:1717
+msgid "You license for"
+msgstr ""
+
+#: captcha_pro.php:1717
+msgid "expires on"
+msgstr ""
+
+#: captcha_pro.php:1717
+msgid "and you won't be granted TOP-PRIORITY SUPPORT or UPDATES. To extend your license please go to your"
+msgstr ""
+
+#: captcha_pro.php:1717
+msgid "where you'll be able to do that once this period expires."
+msgstr ""
+
+#, fuzzy
+#~ msgid "(powered by bestwebsoft.com)"
+#~ msgstr "(běží na  bestwebsoft.com)"
+
+#, fuzzy
+#~ msgid "Please enter a valid email address."
+#~ msgstr "Prosím vyplňte správnou CAPTCHA hodnotu."
+
+#~ msgid "Activated plugins"
+#~ msgstr "Aktivavané pluginy"
+
+#~ msgid "Read more"
+#~ msgstr "Přečíst více"
+
+#~ msgid "Installed plugins"
+#~ msgstr "Instalované pluginy"
+
+#~ msgid "Recommended plugins"
+#~ msgstr "Doporučené pluginy"
+
+#~ msgid "Install %s"
+#~ msgstr "Instalovat %s"
+
+#~ msgid "Install now from wordpress.org"
+#~ msgstr "Nainstalovat nyní z wordpress.org"
+
+#, fuzzy
+#~ msgid "Active Plugins"
+#~ msgstr "Aktivavané pluginy"
+
+#, fuzzy
+#~ msgid "Inactive Plugins"
+#~ msgstr "Aktivavané pluginy"
+
+#, fuzzy
+#~ msgid "Send to support"
+#~ msgstr "Podpora"
+
+#, fuzzy
+#~ msgid ""
+#~ "If you have any questions, please contact us via plugin@bestwebsoft.com "
+#~ "or fill in the contact form on our website"
+#~ msgstr ""
+#~ "Pokud máte nějakou otázku, kontaktujte nás na plugin@bestwebsoft.com nebo "
+#~ "vyplňte kontaktní formulář na našich stránkách"
+
+#~ msgid "Increase"
+#~ msgstr "Zvětšit"
+
+#~ msgid "Difficulty for CAPTCHA"
+#~ msgstr "Obtížnost pro CAPTCHA"
+
+#~ msgid "That CAPTCHA was incorrect."
+#~ msgstr "Špatně vyplněné pole CAPTCHA"
+
+#~ msgid "The password of encryption is not set"
+#~ msgstr "Heslo pro kódování není nastaveno"
+
+#~ msgid "null"
+#~ msgstr "nula"
+
+#~ msgid "Install Now"
+#~ msgstr "Установить сейчас"
